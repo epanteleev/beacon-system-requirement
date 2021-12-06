@@ -15,3 +15,4 @@ Useful links for implementation indoor positioning system.
 Links to a few algorithms 
 1) [Timetable generator](https://github.com/NDresevic/timetable-generator)
 2) [Task planning for robots](https://github.com/epfl-lasa/bimanual-task-motion-planning)
+3) [Optaplanner](https://github.com/kiegroup/optaplanner)
